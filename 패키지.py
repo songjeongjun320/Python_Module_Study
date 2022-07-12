@@ -12,7 +12,7 @@
 # trip_to.detail()
 
 # from random import *
-from travel_temp import *
+from travel import *
 # # trip_to = vietnam.VietnamPakcakge()
 trip_to = thailand.ThailandPackage()
 trip_to.detail()
